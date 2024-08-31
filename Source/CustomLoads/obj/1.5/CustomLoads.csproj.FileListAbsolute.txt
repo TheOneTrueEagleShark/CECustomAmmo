@@ -1,0 +1,6 @@
+C:\Users\nicks\source\repos\CustomAmmoRimworld\1.3\Assemblies\CustomLoads.dll
+C:\Users\nicks\source\repos\CustomAmmoRimworld\Source\CustomLoads\obj\1.5\CustomLoads.csproj.AssemblyReference.cache
+C:\Users\nicks\source\repos\CustomAmmoRimworld\Source\CustomLoads\obj\1.5\CustomLoads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicks\source\repos\CustomAmmoRimworld\Source\CustomLoads\obj\1.5\CustomLoads.csproj.CoreCompileInputs.cache
+C:\Users\nicks\source\repos\CustomAmmoRimworld\Source\CustomLoads\obj\1.5\CustomLo.1CFB08E5.Up2Date
+C:\Users\nicks\source\repos\CustomAmmoRimworld\Source\CustomLoads\obj\1.5\CustomLoads.dll
